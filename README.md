@@ -138,4 +138,4 @@ The model relies heavily on historical field/observer reports. In regions with s
 
 **Peter Obikpe (Pheonix)**
 Data Analyst | IT Instructor
-[Portfolio](https://peter-portfolio11.vercel.app) · [LinkedIn](#) · [Email](#)
+[Portfolio](https://peter-portfolio11.vercel.app) · [LinkedIn](https://www.linkedin.com/in/peterobikpe) · [Email](obikpepeter808@gmail.com)
